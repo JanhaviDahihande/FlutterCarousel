@@ -12,7 +12,15 @@ and install it onto your device.
 If you are new to Flutter, please follow
 the [Flutter Setup](https://flutter.io/setup/) guide.
 
+## Learn
+ You can learn the intricate details from the Medium article:
+
+[Flutter Carousel](https://medium.com/flutter-io/creating-a-carousel-with-flutter-adf9a756e949)
+
+
 ## Demo
+
+<img alt="Carousel Demo Video" height="500px" src="https://raw.githubusercontent.com/JanhaviDahihande/FlutterCarousel/master/art/Carousel_Demo.gif" />
 
 --------------------
 
